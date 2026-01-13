@@ -10,7 +10,6 @@ Application Android moderne développée avec Jetpack Compose, Clean Architectur
 - Écran détaillé pour chaque film avec informations complètes
 - Architecture Clean avec séparation stricte des couches
 - Interface moderne et colorée (Material Design 3)
-- Interface accessible (TalkBack compatible)
 - Gestion d'erreurs robuste et états de chargement
 - Tests unitaires complets avec mocking
 - Constantes centralisées et strings externalisés
