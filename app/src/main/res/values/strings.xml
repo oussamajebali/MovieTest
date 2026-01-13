@@ -1,0 +1,49 @@
+<resources>
+
+    <string name="app_name">MovieTest</string>
+
+    <!-- Screen Titles -->
+    <string name="title_popular_movies">Films Populaires</string>
+    <string name="title_movie_details">Détails du film</string>
+
+    <!-- Content Descriptions for Accessibility -->
+    <string name="cd_page_title">Titre de la page %1$s</string>
+    <string name="cd_loading">Chargement des films en cours</string>
+    <string name="cd_loading_details">Chargement des détails du film</string>
+    <string name="cd_error">Erreur: %1$s</string>
+    <string name="cd_retry_button">Bouton réessayer</string>
+    <string name="cd_back_button">Bouton retour à la liste des films</string>
+    <string name="cd_movie_list">Liste de %1$d films</string>
+    <string name="cd_movie_item">Film: %1$s, Note: %2$s sur 10, %3$d votes. Cliquez pour voir les détails</string>
+    <string name="cd_movie_poster">Affiche du film %1$s</string>
+    <string name="cd_movie_details_page">Détails du film %1$s</string>
+    <string name="cd_rating_section">Évaluation: %1$s sur 10, basée sur %2$d votes, popularité: %3$s</string>
+
+    <!-- Actions -->
+    <string name="action_retry">Réessayer</string>
+
+    <!-- Labels -->
+    <string name="label_rating">Note</string>
+    <string name="label_votes">Votes</string>
+    <string name="label_popularity">Popularité</string>
+    <string name="label_synopsis">Synopsis</string>
+    <string name="label_release_date">Date de sortie</string>
+    <string name="label_year">Année</string>
+    <string name="label_rating_not_available">Note non disponible</string>
+
+    <!-- Format Strings -->
+    <string name="format_rating">⭐ %1$s</string>
+    <string name="format_votes">(%1$d votes)</string>
+    <string name="format_release_date">Date de sortie: %1$s</string>
+    <string name="format_year">Année: %1$s</string>
+
+    <!-- Error Messages -->
+    <string name="error_unknown">Une erreur inconnue est survenue</string>
+    <string name="error_no_movies">Aucun film trouvé</string>
+    <string name="error_network">Erreur réseau</string>
+    <string name="error_loading_movies">Erreur lors du chargement des films</string>
+
+    <!-- Empty States -->
+    <string name="empty_movie_list">Aucun film à afficher</string>
+
+</resources>
