@@ -71,7 +71,7 @@ app/
 
 ```bash
 git clone [URL_DU_REPO]
-cd MovieApp
+cd MovieTest
 ```
 
 ### 3. Configuration API OMDb
@@ -122,7 +122,7 @@ Si besoin d'obtenir ta propre clé (optionnel) :
 ## 📁 Structure des fichiers
 
 ```
-app/src/main/java/com/example/movieapp/
+app/src/main/java/com/example/movietest/
 ├── data/
 │   ├── mapper/
 │   │   └── MovieMapper.kt
@@ -184,7 +184,7 @@ app/src/main/res/
 ### Tests
 
 ```
-app/src/test/java/com/example/movieapp/
+app/src/test/java/com/example/movietest/
 ├── domain/usecase/
 │   ├── GetPopularMoviesUseCaseTest.kt
 │   └── GetMovieDetailsUseCaseTest.kt
